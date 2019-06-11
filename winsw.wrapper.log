@@ -1,0 +1,11 @@
+2019-06-11 13:43:38,987 DEBUG - Starting ServiceWrapper in the CLI mode
+2019-06-11 13:43:57,280 INFO  - Installing the service with id 'wnp'
+2019-06-11 13:43:57,470 DEBUG - Completed. Exit code is 0
+2019-06-11 13:44:03,430 DEBUG - Starting ServiceWrapper in the CLI mode
+2019-06-11 13:44:04,017 INFO  - Starting the service with id 'wnp'
+2019-06-11 13:44:04,303 INFO  - Starting ServiceWrapper in the service mode
+2019-06-11 13:44:04,367 DEBUG - Completed. Exit code is 0
+2019-06-11 13:44:04,711 INFO  - Starting start_server.bat 
+2019-06-11 13:44:04,715 INFO  - Starting start_server.bat 
+2019-06-11 13:44:04,780 INFO  - Started process 11096
+2019-06-11 13:44:04,792 DEBUG - Forwarding logs of the process System.Diagnostics.Process (cmd) to winsw.DefaultLogAppender

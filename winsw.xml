@@ -1,0 +1,6 @@
+<service>
+    <id>wnp</id>
+    <name>wnp</name>
+    <description>nginx + php 的web服务器</description>
+    <executable>start_server.bat</executable>
+</service>
